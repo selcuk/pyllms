@@ -18,3 +18,4 @@ ollama
 reka-api
 mistralai<1.0
 together
+torch>=2.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
